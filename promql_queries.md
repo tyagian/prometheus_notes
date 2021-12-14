@@ -16,8 +16,13 @@ sum(kube_node_spec_unschedulable) by (node)
 ```
 
 
+PromQL cheatSheet: https://promlabs.com/promql-cheat-sheet/
+https://prometheus.io/docs/prometheus/latest/querying/examples/
+https://github.com/shubhamc183/promql
 
+Promql blog: https://promlabs.com/blog/
 Prometheus pros and cons: https://www.containiq.com/post/kubernetes-monitoring-with-prometheus
+Prometheus 101: https://www.youtube.com/watch?v=8Ai55-sYJA0
 
 Reference: 
 https://www.containiq.com/post/promql-cheat-sheet-with-examples
